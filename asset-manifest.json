@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cotizadorSeguros/static/css/main.8d4762bc.chunk.css",
+    "main.js": "/cotizadorSeguros/static/js/main.10bb5d77.chunk.js",
+    "main.js.map": "/cotizadorSeguros/static/js/main.10bb5d77.chunk.js.map",
+    "runtime-main.js": "/cotizadorSeguros/static/js/runtime-main.4cf85d04.js",
+    "runtime-main.js.map": "/cotizadorSeguros/static/js/runtime-main.4cf85d04.js.map",
+    "static/js/2.8f284bf3.chunk.js": "/cotizadorSeguros/static/js/2.8f284bf3.chunk.js",
+    "static/js/2.8f284bf3.chunk.js.map": "/cotizadorSeguros/static/js/2.8f284bf3.chunk.js.map",
+    "static/js/3.09d9f01a.chunk.js": "/cotizadorSeguros/static/js/3.09d9f01a.chunk.js",
+    "static/js/3.09d9f01a.chunk.js.map": "/cotizadorSeguros/static/js/3.09d9f01a.chunk.js.map",
+    "index.html": "/cotizadorSeguros/index.html",
+    "static/css/main.8d4762bc.chunk.css.map": "/cotizadorSeguros/static/css/main.8d4762bc.chunk.css.map",
+    "static/js/2.8f284bf3.chunk.js.LICENSE.txt": "/cotizadorSeguros/static/js/2.8f284bf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf85d04.js",
+    "static/js/2.8f284bf3.chunk.js",
+    "static/css/main.8d4762bc.chunk.css",
+    "static/js/main.10bb5d77.chunk.js"
+  ]
+}
